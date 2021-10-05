@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.88599782.chunk.css",
-    "main.js": "/static/js/main.fc45c633.chunk.js",
-    "main.js.map": "/static/js/main.fc45c633.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2b98fea4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2b98fea4.js.map",
-    "static/js/2.8df46895.chunk.js": "/static/js/2.8df46895.chunk.js",
-    "static/js/2.8df46895.chunk.js.map": "/static/js/2.8df46895.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2146c5edd03fb1396306a3e466da2740.js": "/precache-manifest.2146c5edd03fb1396306a3e466da2740.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.88599782.chunk.css.map": "/static/css/main.88599782.chunk.css.map",
-    "static/js/2.8df46895.chunk.js.LICENSE.txt": "/static/js/2.8df46895.chunk.js.LICENSE.txt"
+    "main.css": "/chronoteam/static/css/main.88599782.chunk.css",
+    "main.js": "/chronoteam/static/js/main.fc45c633.chunk.js",
+    "main.js.map": "/chronoteam/static/js/main.fc45c633.chunk.js.map",
+    "runtime-main.js": "/chronoteam/static/js/runtime-main.d0056ac0.js",
+    "runtime-main.js.map": "/chronoteam/static/js/runtime-main.d0056ac0.js.map",
+    "static/js/2.8df46895.chunk.js": "/chronoteam/static/js/2.8df46895.chunk.js",
+    "static/js/2.8df46895.chunk.js.map": "/chronoteam/static/js/2.8df46895.chunk.js.map",
+    "index.html": "/chronoteam/index.html",
+    "precache-manifest.290d51bef3c5bc0a859baaa1242f5f43.js": "/chronoteam/precache-manifest.290d51bef3c5bc0a859baaa1242f5f43.js",
+    "service-worker.js": "/chronoteam/service-worker.js",
+    "static/css/main.88599782.chunk.css.map": "/chronoteam/static/css/main.88599782.chunk.css.map",
+    "static/js/2.8df46895.chunk.js.LICENSE.txt": "/chronoteam/static/js/2.8df46895.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b98fea4.js",
+    "static/js/runtime-main.d0056ac0.js",
     "static/js/2.8df46895.chunk.js",
     "static/css/main.88599782.chunk.css",
     "static/js/main.fc45c633.chunk.js"
